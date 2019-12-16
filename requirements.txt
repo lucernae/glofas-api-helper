@@ -1,0 +1,3 @@
+owslib==0.19
+lxml==4.4.2
+GDAL>=2

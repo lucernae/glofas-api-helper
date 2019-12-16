@@ -1,0 +1,823 @@
+<table class="tbl_info_point" summary="Point Information">
+<tr>
+<th class="cell_header">Country</th>
+<th>Basin</th>
+<th>Station</th>
+<th>Lon</th>
+<th>Lat</th>
+<th>Upstream area (LDD)</th>
+<th>Upstream area (Provider)</th>
+</tr>
+<tr>
+<td>Indonesia</td>
+<td>Na</td>
+<td>CISADANE SERPONG</td>
+<td>106.65</td>
+<td>-6.35</td>
+<td>1,800</td>
+<td>0</td>
+</tr>
+</table><table class="tbl_info_point" summary="Point Forecast">
+<caption>Point Forecast</caption>
+<tr>
+<th class="cell_header">Forecast Date</th>
+<th>Point No.</th>
+<th>max. EPS &gt; threshold [%]</th>
+<th>Alert level</th>
+<th>Probability tendency</th>
+<th>Peak forecasted in</th>
+</tr>
+<tr>
+<td>2019-12-15 00:00</td>
+<td>1765</td>
+<td>4/2/2</td>
+<td>0</td>
+<td><img class="img-responsive" src="http://globalfloods.ecmwf.int/static/images/viewer/RisingArrow.gif" alt="Probability tendency"></td>
+<td>&lt; 3 days</td>
+</tr>
+</table><br><a href="#" class="open_close" onclick="$('.forecast_images').toggle('1000');return false;">&gt;&gt;Open/Close GloFAS Forecast images</a><br><br><br><div class="forecast_images">
+<span class="title">Hydrograph</span><img class="img-responsive" src="http://globalfloods-ows.ecmwf.int/glofas-ows/?&amp;act=getFile&amp;f=/global/2019/201912/2019121500/301765_EGE2019121500.png" alt="Hydrograph" width="800" height="600"><br>
+</div><table class="table-forecast-result table-forecast-result-global" summary="Medium Alert Level">
+<caption>Medium Alert Level</caption>
+<colgroup></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<colgroup class="EGEGtMal"></colgroup>
+<thead><tr>
+<th class="cell_header">Forecast Day</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="cell_header">11/12/2019</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFFFCC">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">12/12/2019</td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFFFCC">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">13/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFFFCC">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">14/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFFFCC">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">15/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFFFCC">2</td>
+<td class="FFFFCC">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFFFCC">2</td>
+<td class="FFFFCC">2</td>
+<td class="FFFFCC">4</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+</tr>
+</tbody>
+</table><table class="table-forecast-result table-forecast-result-global" summary="High Alert Level">
+<caption>High Alert Level</caption>
+<colgroup></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<colgroup class="EGEGtHal"></colgroup>
+<thead><tr>
+<th class="cell_header">Forecast Day</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="cell_header">11/12/2019</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">12/12/2019</td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFBCBD">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">13/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">14/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">15/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFBCBD">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FFBCBD">2</td>
+<td class="FFBCBD">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+</tr>
+</tbody>
+</table><table class="table-forecast-result table-forecast-result-global" summary="Severe Alert Level">
+<caption>Severe Alert Level</caption>
+<colgroup></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<colgroup class="EGEGtSal"></colgroup>
+<thead><tr>
+<th class="cell_header">Forecast Day</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="cell_header">11/12/2019</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">12/12/2019</td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">13/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">14/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="666666"></td>
+</tr>
+<tr>
+<td class="cell_header">15/12/2019</td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class="666666"></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class="FAC3FF">2</td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+<td class=""></td>
+</tr>
+</tbody>
+</table>

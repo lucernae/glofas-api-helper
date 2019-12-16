@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "reporting_point_layer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"bbox": [ 11872356.5976255, -708424.790266267, 11872356.5976255, -708424.790266267 ],                                              
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "CISADANE SERPONG" }, "bbox": [ 11872356.597625533118844, -708424.790266267140396, 11872356.597625533118844, -708424.790266267140396 ], "geometry": { "type": "Point", "coordinates": [ 11872356.597625533118844, -708424.790266267140396 ] } }
+]
+}
