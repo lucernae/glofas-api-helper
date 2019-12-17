@@ -2,7 +2,7 @@ import os
 import unittest
 from datetime import datetime
 
-from osgeo import gdal
+from osgeo import gdal, ogr
 
 from glofas.layer.reporting_point import (
     ReportingPointAPI,
@@ -26,10 +26,10 @@ class TestReportingPoint(unittest.TestCase):
         # ds = ogr.Open(
         #     'http://78.47.62.69/geoserver/kartoza/ows?service=WFS&version=1'
         #     '.0.0&request=GetFeature&typeName=kartoza:reporting_point'
-        #     '&maxFeatures=50&outputFormat=application/json')
+        #     '&maxFeatures=50&outputFormat=application/json&srsName=EPSG:3857')
         point_layer = ds.GetLayer()
 
-        feature_info = self.api.get_feature_info(point_layer, srs='EPSG:4326')
+        feature_info = self.api.get_feature_info(point_layer, srs='EPSG:3857')
 
         self.assertTrue(feature_info)
         reporting_point_res = feature_info[0]
