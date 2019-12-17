@@ -22,9 +22,14 @@ class TestReportingPoint(unittest.TestCase):
         self.api.time = time_slice
 
         ds = gdal.OpenEx(self.fixture_path('reporting_point_layer.geojson'))
+        # Sample of using WFS:
+        # ds = ogr.Open(
+        #     'http://78.47.62.69/geoserver/kartoza/ows?service=WFS&version=1'
+        #     '.0.0&request=GetFeature&typeName=kartoza:reporting_point'
+        #     '&maxFeatures=50&outputFormat=application/json')
         point_layer = ds.GetLayer()
 
-        feature_info = self.api.get_feature_info(point_layer, srs='EPSG:3857')
+        feature_info = self.api.get_feature_info(point_layer, srs='EPSG:4326')
 
         self.assertTrue(feature_info)
         reporting_point_res = feature_info[0]
