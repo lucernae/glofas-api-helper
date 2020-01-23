@@ -7,6 +7,24 @@ This helper package is intended to use as API Wrapper to GloFAS OWS API.
 
 [GloFAS](https://www.globalfloods.eu/) is a Global System for Flood Awareness.
 
+# Installations
+
+The modules needs python GDAL.
+Installing GDAL vary depending on OS distributions.
+In most debian distro, you can do it like this
+
+```
+apt -y update
+apt -y install gdal-bin libgdal-dev python3-gdal
+```
+
+It also needs python 3.
+
+You can install the module itself directly from github like this:
+
+```
+pip install -e git+https://github.com/lucernae/glofas-api-helper.git@master#egg=GloFAS-API-Wrapper-0.1
+```
 
 Current available endpoint:
 
